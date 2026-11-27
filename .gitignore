@@ -1,3 +1,8 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
 .venv/
-__pycatch__/
-.vscode
+scratch.py
